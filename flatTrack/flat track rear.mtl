@@ -1,0 +1,564 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+newmtl default
+Kd 0.5 0.5 0.5
+
+newmtl satin_finish_aluminum
+Kd 0.8666667 0.9098039 1
+Ks 0.8666667 0.9098039 1
+illum 2
+Ns 9.999999
+
+newmtl polished_aluminum
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.8980392 0.9176471 0.9294118
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel-3
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 10
+
+newmtl glossy_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 29.28571
+
+newmtl color
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_stainless_steel-3
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 10
+
+newmtl glossy_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 29.28571
+
+newmtl color
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-2
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl color-3
+Kd 0.7529412 0.7529412 0
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-4
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl color-4
+Kd 0.2509804 0.2509804 0.2509804
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_aluminum-2
+Kd 0.8980392 0.9176471 0.9294118
+Ks 0.8980392 0.9176471 0.9294118
+illum 2
+Ns 10
+
+newmtl satin_finish_stainless_steel-3
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 10
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+illum 2
+Ns 99.90109
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks thread.png
+map_bump -bm 2 thread.png
+bump thread.png
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel
+Kd 1 0.9490196 0.9098039
+Ks 1 0.9490196 0.9098039
+illum 2
+Ns 9.999999
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
+
+newmtl satin_finish_stainless_steel-4
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.7529412 0.7529412 0.7529412
+illum 2
+Ns 4.218858
