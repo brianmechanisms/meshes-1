@@ -1,0 +1,22 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl color
+Kd 0.7921569 0.8196079 0.9333333
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl polished_aluminum
+Kd 0.8941177 0.9137255 0.9294118
+Ks 0.8941177 0.9137255 0.9294118
+illum 2
+Ns 99.90109
+
+newmtl glossy_rubber
+Kd 0.2941177 0.2941177 0.2941177
+Ks 0.5 0.5 0.5
+illum 2
+Ns 29.28571
