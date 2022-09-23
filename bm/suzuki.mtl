@@ -1,0 +1,99 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl color
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl Cosmetic_Thread
+Kd 0.6980392 0.6980392 0.6980392
+Ks 0.6980392 0.6980392 0.6980392
+map_Ks C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\thread.png
+map_bump -bm 2 C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\thread.png
+bump C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\thread.png
+illum 2
+Ns 9.999999
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl matte_rubber
+Kd 0.2980392 0.2980392 0.2980392
+Ks 0.5 0.5 0.5
+illum 2
+Ns 1.545079
+
+newmtl color
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
+
+newmtl dark_powdercoat
+Kd 0.1921569 0.2039216 0.2039216
+map_Kd C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\powdercoat_dark.dds
+Ks 0.5 0.5 0.5
+map_bump C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\powdercoat_n.dds
+bump C:\Users\Brian\Documents\SOLIDWORKS Visualize Content\Models\powdercoat_n.dds
+illum 2
+
+newmtl chromium_plate
+Kd 0.6392157 0.6666667 0.6784314
+Ks 0.6392157 0.6666667 0.6784314
+illum 2
+Ns 99.90109
+
+newmtl chromium_plate
+Kd 0.6392157 0.6666667 0.6784314
+Ks 0.6392157 0.6666667 0.6784314
+illum 2
+Ns 99.90109
+
+newmtl chromium_plate
+Kd 0.6392157 0.6666667 0.6784314
+Ks 0.6392157 0.6666667 0.6784314
+illum 2
+Ns 99.90109
+
+newmtl chromium_plate
+Kd 0.6392157 0.6666667 0.6784314
+Ks 0.6392157 0.6666667 0.6784314
+illum 2
+Ns 99.90109
+
+newmtl color
+Kd 0.7529412 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+illum 2
+Ns 99.90109
